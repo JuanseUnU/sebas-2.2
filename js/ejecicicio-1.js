@@ -2,6 +2,8 @@
 luego agrega 3 colores diferentes y recorrer el vector */
 
 
+
+
 let colores = []; // vector vacio
 
 colores.push("Amarillo", "Azul", "Verde"); // se agregan 3 colores 
